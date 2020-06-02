@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/near-earth/static/css/main.fbbe192a.chunk.css",
+    "main.js": "/near-earth/static/js/main.df24a462.chunk.js",
+    "main.js.map": "/near-earth/static/js/main.df24a462.chunk.js.map",
+    "runtime-main.js": "/near-earth/static/js/runtime-main.0c2e45ea.js",
+    "runtime-main.js.map": "/near-earth/static/js/runtime-main.0c2e45ea.js.map",
+    "static/js/2.bb70c1bb.chunk.js": "/near-earth/static/js/2.bb70c1bb.chunk.js",
+    "static/js/2.bb70c1bb.chunk.js.map": "/near-earth/static/js/2.bb70c1bb.chunk.js.map",
+    "index.html": "/near-earth/index.html",
+    "precache-manifest.2c854d004d6691ddac3aa4f6bf9132f7.js": "/near-earth/precache-manifest.2c854d004d6691ddac3aa4f6bf9132f7.js",
+    "service-worker.js": "/near-earth/service-worker.js",
+    "static/css/main.fbbe192a.chunk.css.map": "/near-earth/static/css/main.fbbe192a.chunk.css.map",
+    "static/js/2.bb70c1bb.chunk.js.LICENSE.txt": "/near-earth/static/js/2.bb70c1bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c2e45ea.js",
+    "static/js/2.bb70c1bb.chunk.js",
+    "static/css/main.fbbe192a.chunk.css",
+    "static/js/main.df24a462.chunk.js"
+  ]
+}
